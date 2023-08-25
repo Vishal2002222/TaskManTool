@@ -1,0 +1,54 @@
+/* Custom CSS for proper padding and active tab style */
+.custom-active-tab {
+    padding: 0.2rem 1rem; /* Adjust the padding as per your preference */
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+
+}
+  
+  .custom-active-tab.active
+   {
+    font-weight: bold;
+    color: #343a40; /* Dark text color for active tab */
+  }
+  
+  .nav-scroller link{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+  }
+/* CSS for the fade-in animation */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.fade-inn {
+  animation: fadeIn 0.5s ease;
+}
+/* Home.css */
+/* ... (other styles) */
+
+/* Hover Effect for the Add Task Button */
+.btn-add-task:hover {
+  background-color: #8c4be1;
+  cursor: pointer;
+}
+
+/* Animation for the Add Task Button */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.fade-in {
+  animation: fadeInUp 0.5s ease-in-out;
+}

@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0221f340.css",
+    "main.js": "/static/js/main.a4daad22.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/clock.jpeg": "/static/media/clock.185e6331deeadb83f0dd.jpeg",
+    "static/media/1 Second Tone.mp3": "/static/media/1 Second Tone.f45703109683d54bf2c5.mp3",
+    "index.html": "/index.html",
+    "main.0221f340.css.map": "/static/css/main.0221f340.css.map",
+    "main.a4daad22.js.map": "/static/js/main.a4daad22.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0221f340.css",
+    "static/js/main.a4daad22.js"
+  ]
+}
